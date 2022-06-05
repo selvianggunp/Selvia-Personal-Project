@@ -44,7 +44,7 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Works
+                Project
               </a>
             </li>
 
@@ -53,6 +53,7 @@ class Header extends Component {
                 Contact
               </a>
             </li>
+            
           </ul>
         </nav>
 
